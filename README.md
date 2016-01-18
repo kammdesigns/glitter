@@ -1,0 +1,2 @@
+# glitter
+Glitter Child Theme
